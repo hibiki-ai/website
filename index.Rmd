@@ -3,6 +3,7 @@ title: "Hibiki"
 links:
   - label: Enquiries
     url: "mailto:info@hibiki-ai.com"
+favicon: favicon.png
 output:
   postcards::jolla
 ---
